@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListenUPCsFinal</string>
+    <string name="ContinueButtonTitle">Continue</string>
+    <string name="DisclamerTitleString">Disclamer</string>
+    <string name="DisclamerBodyString">TextView</string>
+    <string name="AudioTestTitle">Audio Test</string>
+    <string name="AudioTestButton">Start</string>
+    <string name="TestDirections">Enter your age below then tap start and ht it again when you cant her the noise anymore.</string>
+    <string name="TestNumberInputHint">Age</string>
+    <string name="ListenUPCsFinaL">AppName</string>
+    <string name="DiagnosticTitle">Diagnostics</string>
+    <string name="DiagnosticButton">Check Results</string>
+</resources>
