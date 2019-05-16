@@ -10,4 +10,6 @@
     <string name="ListenUPCsFinaL">AppName</string>
     <string name="DiagnosticTitle">Diagnostics</string>
     <string name="DiagnosticButton">Check Results</string>
+    <string name="HearingAge">Hearing Age:</string>
+    <string name="agedifference">AgeDifference</string>
 </resources>
